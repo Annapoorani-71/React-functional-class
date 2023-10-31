@@ -1,0 +1,38 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+.heading1
+{
+    background-color: rgb(144, 201, 251);
+    position: fixed;
+    color: black;
+    top: 0;
+    left: 0;
+    right: 0;
+    
+}
+.image
+{
+    margin-top: 10%;
+    
+}
+img
+{
+    border: 5px solid black;
+}
+.icons
+{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.footer{
+    background-color:rgb(144, 201, 251);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
